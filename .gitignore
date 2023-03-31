@@ -105,9 +105,12 @@ cython_debug/
 
 # ----------------------------------------------------
 # Vanity.git Excluded files
+
 */junk/*
 /junk/*
 */junk/
-__pycache__/
-run.cpython-311.pyc
+
 tracking.txt
+
+url.input.txt
+url.output.txt
