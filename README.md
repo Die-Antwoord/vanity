@@ -14,7 +14,6 @@ Where does this list come from?
 
 ### Honorable Mentions
 
- 
 > - [Blacklister Project](<https://discord.gg/jQpvWepRz9>)
 > - [Dangercord Community Program](<https://dangercord.com/>) 
 > - [Vaccinator Discord Community Server](<https://discord.gg/amWd8zwTDj>)
