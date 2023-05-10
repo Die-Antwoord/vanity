@@ -1,10 +1,6 @@
----
-[![wakatime](https://wakatime.com/badge/github/Die-Antwoord/vanity.svg)](https://wakatime.com/badge/github/Die-Antwoord/vanity)
----
-
 # Vanity List
 
->This file [list_latest.txt](list_latest.txt) contains a list of Discord Invite Vanity links that are highly likely to be QR-scam, scam, phishing or a tread to the community related.
+> This file [list_latest.txt](list_latest.txt) contains a list of Discord Invite Vanity links that are highly likely to be QR-scam, scam, phishing or a tread to the community related.
 
 ## Source
 
